@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.logo{
+    width: 100px;
+}
+.menu-container{
+    background-color: rgb(33, 30, 30);
+}
